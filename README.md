@@ -13,7 +13,7 @@
   - A arquitetura MVC é um padrão de projeto que separa o seu código em três camadas que são:
     - a Model;
     - a View;
-    - o Controller. "/n"
+    - o Controller. "\n"
   Onde o Model é onde fica as regras de négocio de sua aplicação, o View são todos os componentes gráficos existentes na aplicação e o
   Controller é responsável por por atualizar a View com as regras existentes no Model.
   
