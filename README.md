@@ -1,11 +1,11 @@
 # CALCULADORA FEITA EM JAVA
 
-🎓 Feita na Disciplina MPOO
+⌛ Feita na Disciplina MPOO
 
 <p align="center">
   <img alt="GitHub language" count src=https://github.com/LucasGabryellll/Calculadora/blob/master/imageCalculator/imageCalculadora.PNG>
 
-## 💭 Sobre o projeto:
+## 💻 Sobre o projeto:
  - Feito na Disciplina de Modelagem de Programação Orientada a Objetos com JAVA.
   Questão semanal da lista de exercícios, utilizando o padrão MVC estudado ao longo da disciplina.
 
@@ -23,7 +23,7 @@
    - JAVA
 
   
-## ⌛ Cuso:
+## 🎓 Cuso:
  - Sistemas de Informações.
  - UAST - Serra Talhada.
  - Professo: Richarlyson D'Emery.
