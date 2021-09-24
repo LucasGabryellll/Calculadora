@@ -15,7 +15,7 @@
     - a View;
     - o Controller. <br />
   - Onde o Model é onde fica as regras de négocio de sua aplicação, o View são todos os componentes gráficos existentes na aplicação e o
-  Controller é responsável por por atualizar a View com as regras existentes no Model.
+  Controller é responsável por atualizar a View com as regras existentes no Model.
   
   
 ## 🚀 Tecnologias:
